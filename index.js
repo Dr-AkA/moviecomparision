@@ -32,7 +32,7 @@ const autoCompleteConfig={
     const response=await axios.get('http://www.omdbapi.com/',{
         params:
         {
-            apikey:'your API key',
+            apikey:'e1542f15',
             s:searchTerm
         }
         
